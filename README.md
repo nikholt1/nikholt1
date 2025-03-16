@@ -1,7 +1,10 @@
 # Computer Science Student | Military Intelligence Specialist
 
 Computer Science Student at Københavns Erhvervsakademi <br> ![image](https://github.com/user-attachments/assets/8e159a09-2913-4ce4-95fa-546d46e351cf) https://kea.dk/
-<br>7 years of Military Intelligence Experience<br><br>
+<br><br>
+![image](https://github.com/user-attachments/assets/4ad3418f-d199-4b66-91cb-646c2cea53aa)
+
+7 years of Military Intelligence Experience<br><br>
 
 ![image](https://github.com/user-attachments/assets/e8e60b0d-cf28-46c9-a360-029e9b739b86)
  Harvard University Computer Science 50 course: Introduction to Python <br>
