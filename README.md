@@ -3,16 +3,15 @@
 Computer Science Student at Københavns Erhvervsakademi <br> ![image](https://github.com/user-attachments/assets/8e159a09-2913-4ce4-95fa-546d46e351cf) https://kea.dk/
 <br><br>
 ![image](https://github.com/user-attachments/assets/4ad3418f-d199-4b66-91cb-646c2cea53aa)
-
-7 years of Military Intelligence Experience<br><br>
+ # 7 years of Military Intelligence Experience<br><br>
 
 ![image](https://github.com/user-attachments/assets/e8e60b0d-cf28-46c9-a360-029e9b739b86)
- Harvard University Computer Science 50 course: Introduction to Python <br>
+ # Harvard University Computer Science 50 course: Introduction to Python <br>
  Certificate: https://certificates.cs50.io/34f37a12-9f02-47fb-a955-c3c1d11b1d7e.png?size=letter
  <br><br>
 
 ![image](https://github.com/user-attachments/assets/e8e60b0d-cf28-46c9-a360-029e9b739b86)
- Harvard University Computer Science 50 course: Introduction to Cybersecurity <br>
+ # Harvard University Computer Science 50 course: Introduction to Cybersecurity <br>
  Certificate: https://certificates.cs50.io/b8671b9d-0791-4a80-8c5b-33aa7745fb72.pdf?size=letter
  <br><br>
 
