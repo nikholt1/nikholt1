@@ -1,5 +1,5 @@
 
-Computer Science Student at Københavns Erhvervsakademi ![image](https://github.com/user-attachments/assets/f2a9b3af-b7bf-4939-bf0c-2d32f0e8e819)
+Computer Science Student at Københavns Erhvervsakademi ![image](https://kea.dk/)
 <br><br>7 years of Military Intelligence Experience<br><br>
 
 
