@@ -1,5 +1,6 @@
 
-Computer Science Student at <br>Københavns Erhvervsakademi<br><br>7 years of Military Intelligence Experience<br><br>
+Computer Science Student at Københavns Erhvervsakademi ![image](https://github.com/user-attachments/assets/f2a9b3af-b7bf-4939-bf0c-2d32f0e8e819)
+<br><br>7 years of Military Intelligence Experience<br><br>
 
 
 ## 🌐 Socials:
