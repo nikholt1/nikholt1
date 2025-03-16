@@ -1,7 +1,8 @@
 # Computer Science Student | Military Intelligence Specialist
 
 ![image](https://github.com/user-attachments/assets/8e159a09-2913-4ce4-95fa-546d46e351cf)
- ## Computer Science Student at Københavns Erhvervsakademi <br>  https://kea.dk/
+ ## Computer Science Student at Københavns Erhvervsakademi <br> 
+ https://kea.dk/
 <br><br>
 ![image](https://github.com/user-attachments/assets/4ad3418f-d199-4b66-91cb-646c2cea53aa)
  ## 7 years of Military Intelligence Experience<br><br>
