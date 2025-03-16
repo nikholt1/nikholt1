@@ -1,9 +1,17 @@
 # Computer Science Student | Military Intelligence Specialist
 
 Computer Science Student at Københavns Erhvervsakademi <br> ![image](https://github.com/user-attachments/assets/8e159a09-2913-4ce4-95fa-546d46e351cf) https://kea.dk/
+<br>7 years of Military Intelligence Experience<br><br>
 
-<br><br>7 years of Military Intelligence Experience<br><br>
+![image](https://github.com/user-attachments/assets/e8e60b0d-cf28-46c9-a360-029e9b739b86)
+ Harvard University Computer Science 50 course: Introduction to Python <br>
+ Certificate: https://certificates.cs50.io/34f37a12-9f02-47fb-a955-c3c1d11b1d7e.png?size=letter
+ <br><br>
 
+![image](https://github.com/user-attachments/assets/e8e60b0d-cf28-46c9-a360-029e9b739b86)
+ Harvard University Computer Science 50 course: Introduction to Cybersecurity <br>
+ Certificate: https://certificates.cs50.io/b8671b9d-0791-4a80-8c5b-33aa7745fb72.pdf?size=letter
+ <br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/NiklasHoltLäu) <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niklasholtläu)<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NiklasHoltLäu)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niklas1997@live.dk)niklas1997@live.dk
