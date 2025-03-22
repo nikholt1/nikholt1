@@ -1,3 +1,7 @@
+
+![Spinning Globe](https://github.com/nikholt1/nikholt1/edit/main/screengif.gif)
+
+
 # Computer Science Student | Military Intelligence Specialist 
 
 
