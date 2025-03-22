@@ -1,4 +1,4 @@
-# Computer Science Student | Military Intelligence Specialist ![image](https://github.com/user-attachments/assets/83c64276-8a25-4cd2-9f6d-766258ed9829)
+# Computer Science Student | Military Intelligence Specialist 
 
 
 ![image](https://github.com/user-attachments/assets/8e159a09-2913-4ce4-95fa-546d46e351cf)
