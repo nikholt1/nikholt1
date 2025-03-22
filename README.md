@@ -1,5 +1,5 @@
 
-![Spinning Globe](screengif.gif)
+![Spinning Globe](Asciiquarium.gif)
 
 
 # Computer Science Student | Military Intelligence Specialist 
