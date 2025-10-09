@@ -34,7 +34,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) <br> <br>
 
 ## Libraries / Frameworks: <br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) <br> <br>
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) <br> <br>
 
 ## Operating Systems: <br>
 ![Linux](https://img.shields.io/badge/Linux-%234285F4.svg?style=for-the-badge&logo=linux&logoColor=white) ![Dragon OS](https://img.shields.io/badge/-Dragon_OS-C51A4A?style=for-the-badge&logo=linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-%234285F4.svg?style=for-the-badge&logo=linux&logoColor=white) ![Kali Mint](https://img.shields.io/badge/-Linux_Mint-%234285F4.svg?style=for-the-badge&logo=linux&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu_Server-%23F05033.svg?style=for-the-badge&logo=linux&logoColor=white) <br> <br>
