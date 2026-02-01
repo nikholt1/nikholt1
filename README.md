@@ -33,6 +33,12 @@ About: Stream any video on any device on the same wifi, allows you to watch what
 Currently working on further implementing DevSecOps for automatic user-site updates and OpenVPN integration for worldwide streaming.
 
 
+### [ProjectWizard - EK 1. Year Project and Exam](https://github.com/TeamJabbaTheHutt/ProjectWizard)
+![PWgif](https://github.com/user-attachments/assets/69ef19f7-2ad9-4fcb-8250-c0561c9e01de)
+
+About: At EK after the 1. year (2 semesters) we are tasked with a Full Stack project including all aspects from backend to Frontend and server side handling through a PaaS.
+Here we worked using Scrum and conducted multiple studies. A small article and the full rapport can be found here:
+[Article and Rapport](https://niklasholtlau.web.app/EK1year.html)
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/niklas.h.lau/) <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niklasholtlau/)<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-holt-l%C3%A4u-0b06542a4/)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niklas1997@live.dk)niklas1997@live.dk
