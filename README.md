@@ -22,7 +22,9 @@
  Certificate: https://certificates.cs50.io/b8671b9d-0791-4a80-8c5b-33aa7745fb72.pdf?size=letter
  <br>Final Project: Analysis and Implementation ideas for CVE-2024-44133: https://youtu.be/5vvWcyBq_Z0 <br>
 
-## Highlighted projects
+
+
+# Highlighted projects
 
 ### [Refract - Local Streaming Server](https://github.com/nikholt1/HT)
 [![Refract preview](https://raw.githubusercontent.com/nikholt1/HT/master/img.png)](https://github.com/nikholt1/HT)
@@ -32,7 +34,7 @@ Currently working on further implementing DevSecOps for automatic user-site upda
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/niklas.h.lau/) <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niklasholtlau/)<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-holt-l%C3%A4u-0b06542a4/)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niklas1997@live.dk)niklas1997@live.dk
 
 # 💻 Tech Stack: <br>
