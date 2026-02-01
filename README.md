@@ -23,8 +23,10 @@
  <br>Final Project: Analysis and Implementation ideas for CVE-2024-44133: https://youtu.be/5vvWcyBq_Z0 <br>
 
 ## Highlighted projects
-![image](https://github.com/user-attachments/assets/e8f9e476-539f-4f29-98e6-5d419fe6a8f1)
+
 ### Refract - Local Streaming Server
+![image](https://niklasholtlau.web.app/images/R/applicationGif.gif)
+
 About: Stream any video on any device on the same wifi, allows you to watch whatever you want whenever you want. 
 Currently working on further implementing DevSecOps for automatic user-site updates and OpenVPN integration for worldwide streaming.
 
