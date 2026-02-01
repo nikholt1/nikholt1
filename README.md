@@ -25,8 +25,6 @@
 ## Highlighted projects
 
 ### [Refract - Local Streaming Server](https://github.com/nikholt1/HT)
-![Refract preview](https://raw.githubusercontent.com/nikholt1/HT/master/img.png)
-
 [![Refract preview](https://raw.githubusercontent.com/nikholt1/HT/master/img.png)](https://github.com/nikholt1/HT)
 
 About: Stream any video on any device on the same wifi, allows you to watch whatever you want whenever you want.  
