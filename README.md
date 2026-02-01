@@ -25,7 +25,8 @@
 ## Highlighted projects
 
 ### Refract - Local Streaming Server
-![image](https://niklasholtlau.web.app/images/R/applicationGif.gif)
+![image](https://raw.githubusercontent.com/nikholt1/HT/master/img.png)
+
 
 About: Stream any video on any device on the same wifi, allows you to watch whatever you want whenever you want. 
 Currently working on further implementing DevSecOps for automatic user-site updates and OpenVPN integration for worldwide streaming.
