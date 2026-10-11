@@ -2,13 +2,13 @@
 
 <div align="center">
 
-[02 · GitHub](#02--github-overview) · [03 · Projects](#03--selected-project) · [04 · Skills](#04--technical-skills) · [05 · Certifications](#05--certifications)
+[01 · GitHub](#02--github-overview) · [02 · Projects](#03--selected-project) · [03 · Skills](#04--technical-skills) · [04 · Certifications](#05--certifications)
 
 </div>
 
 
 
-## 02 / GitHub Overview
+## 01 / GitHub Overview
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 ---
 
 
-## 03 / Selected Project
+## 02 / Selected Project
 
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 04 / Technical Skills
+## 03 / Technical Skills
 
 <table>
   <tr>
@@ -123,7 +123,7 @@
 
 ---
 
-## 05 / Certifications
+## 04 / Certifications
 
 <sub>HARVARD UNIVERSITY · CS50 · CONTINUOUS LEARNING</sub>
 
