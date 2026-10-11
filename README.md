@@ -70,7 +70,7 @@
 
 **Refract — Selected project**
 
-
+[Project details](https://niklasholtlau.web.app/R.html)
 [**Browse all repositories ↗**](https://github.com/nikholt1?tab=repositories)
 
 </div>
@@ -202,12 +202,12 @@ Cybersecurity fundamentals, digital security principles, and identification of s
 <table>
   <tr>
     <td valign="middle">
-      <a href="https://niklasholtlau.web.app/">
+      <a href="https://niklasholtlau.web.app/front.html">
         <img src="https://raw.githubusercontent.com/nikholt1/nikholt1/main/blop.gif?raw=true" width="60" alt="Explore portfolio"/>
       </a>
     </td>
     <td valign="middle">
-      <a href="https://niklasholtlau.web.app/">
+      <a href="https://niklasholtlau.web.app/front.html">
         <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-282D36?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Explore portfolio"/>
       </a>
     </td>
