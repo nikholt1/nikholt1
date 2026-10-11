@@ -70,7 +70,8 @@
 
 **Refract — Selected project**
 
-[Project details](https://niklasholtlau.web.app/R.html)
+[**Project details**](https://niklasholtlau.web.app/R.html)
+<br>
 [**Browse all repositories ↗**](https://github.com/nikholt1?tab=repositories)
 
 </div>
