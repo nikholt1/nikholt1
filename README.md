@@ -196,12 +196,15 @@ Cybersecurity fundamentals, digital security principles, and identification of s
 
 ---
 
+
 <div align="center">
 
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://raw.githubusercontent.com/nikholt1/nikholt1/main/blop.gif" width="60" alt="Animated blob"/>
+      <a href="https://niklasholtlau.web.app/">
+        <img src="https://raw.githubusercontent.com/nikholt1/nikholt1/main/blop.gif?raw=true" width="60" alt="Explore portfolio"/>
+      </a>
     </td>
     <td valign="middle">
       <a href="https://niklasholtlau.web.app/">
@@ -218,4 +221,5 @@ Cybersecurity fundamentals, digital security principles, and identification of s
 <br/><br/>
 
 </div>
+
 
