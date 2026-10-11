@@ -34,7 +34,7 @@ My interests span full-stack development, software architecture, infrastructure,
 
 <br>
 
-<a href="https://github.com/nikholt1">
+
 <img src="https://img.shields.io/badge/nikholt1-171B22?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
 </a>
 &nbsp;
