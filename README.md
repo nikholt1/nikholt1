@@ -30,12 +30,10 @@ My interests span full-stack development, software architecture, infrastructure,
 <tr>
 <td align="center" colspan="2">
 
-<img src="https://img.shields.io/badge/GITHUB-080D16?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
-
-<br>
 
 
-<img src="https://img.shields.io/badge/nikholt1-171B22?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
+
+
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnikholt1&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=171B22&labelColor=080D16&style=flat-square&logo=github&logoColor=38BDF8" alt="Public repositories"/>
@@ -45,7 +43,7 @@ My interests span full-stack development, software architecture, infrastructure,
 <tr>
 <td align="center" width="60%">
 
-<a href="https://github.com/nikholt1">
+
 <img src="https://github-readme-stats.vercel.app/api?username=nikholt1&show_icons=true&hide_title=true&hide_border=true&bg_color=080D16&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true&card_width=495" width="100%" alt="GitHub statistics including stars and contributions"/>
 </a>
 
@@ -69,8 +67,6 @@ My interests span full-stack development, software architecture, infrastructure,
 </tr>
 </table>
 
-<sub>Live GitHub data · Language distribution reflects repository code, not proficiency.</sub>
-
 </div>
 
 [↑ Back to navigation](#navigation)
@@ -88,7 +84,6 @@ My interests span full-stack development, software architecture, infrastructure,
 
 **Refract — Selected project**
 
-<sub>Explore the repository for source code, implementation details, and project documentation.</sub>
 
 [**Browse all repositories ↗**](https://github.com/nikholt1?tab=repositories)
 
