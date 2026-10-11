@@ -16,7 +16,7 @@ My interests span full-stack development, software architecture, infrastructure,
 
 | **SYSTEMS**                                  | **DEVELOPMENT**                                                   | **AUTOMATION**                                               |
 | :------------------------------------------- | :---------------------------------------------------------------- | :----------------------------------------------------------- |
-| Services, APIs, data flows and architecture. | Building applications with clear structure and maintainable code. | AI integrations, intelligent agents and automated workflows. |
+| Services, APIs, data flows and architecture. | Building full-stack applications with clear structure and maintainable code. | AI integrations, intelligent agents and automated workflows. |
 
 [↑ Back to navigation](#navigation)
 
