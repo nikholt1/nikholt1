@@ -4,57 +4,85 @@
 
 # Computer Science Student | Military Intelligence Specialist 
 
-![image](https://github.com/user-attachments/assets/8e159a09-2913-4ce4-95fa-546d46e351cf)
- ### Computer Science Student at Københavns Erhvervsakademi <br> 
- https://kea.dk/
+ ### Computer Science Student at Erhvervsakademi Københavns <br> 
+ https://www.ek.dk/
 
-![image](https://github.com/user-attachments/assets/e8e60b0d-cf28-46c9-a360-029e9b739b86)
- ### Harvard University Computer Science 50 course: Introduction to Python <br>
- Certificate: https://certificates.cs50.io/34f37a12-9f02-47fb-a955-c3c1d11b1d7e.png?size=letter
- <br>Final Project: Login system with sha256 hashing: https://www.youtube.com/watch?v=-YkQqKhW5B0<br>
+## Tech Stack & Skills
 
-![image](https://github.com/user-attachments/assets/e8e60b0d-cf28-46c9-a360-029e9b739b86)
- ### Harvard University Computer Science 50 course: Introduction to Cybersecurity <br>
- Certificate: https://certificates.cs50.io/b8671b9d-0791-4a80-8c5b-33aa7745fb72.pdf?size=letter
- <br>Final Project: Analysis and Implementation ideas for CVE-2024-44133: https://youtu.be/5vvWcyBq_Z0 <br>
+<div align="center">
 
+### Full-Stack Development · System Architecture · AI & Automation
 
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-# Highlighted projects
+</div>
 
-### [Refract - Local Streaming Server](https://github.com/nikholt1/HT)
-[![Refract preview](https://raw.githubusercontent.com/nikholt1/HT/master/img.png)](https://github.com/nikholt1/HT)
+---
 
-About: Stream any video on any device on the same wifi, allows you to watch whatever you want whenever you want.  
-Currently working on further implementing DevSecOps for automatic user-site updates and OpenVPN integration for worldwide streaming.
+<div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 
-### [ProjectWizard - EK 1. Year Project and Exam](https://github.com/TeamJabbaTheHutt/ProjectWizard)
-![PWgif](https://github.com/user-attachments/assets/69ef19f7-2ad9-4fcb-8250-c0561c9e01de)
+### ⚙️ Backend & Development
 
-About: At EK after the 1. year (2 semesters) we are tasked with a Full Stack project including all aspects from backend to Frontend and server side handling through a PaaS.
-Here we worked using Scrum and conducted multiple studies. A small article and the full rapport can be found here:
-[Article and Rapport](https://niklasholtlau.web.app/EK1year.html)
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-6C63FF?style=flat-square" />
 
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/niklas.h.lau/) <br>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/niklasholtlau/)<br> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niklas-holt-l%C3%A4u-0b06542a4/)<br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niklas1997@live.dk)niklas1997@live.dk
+</td>
+<td align="center" width="50%">
 
-# 💻 Tech Stack: <br>
+### 🧠 AI & Automation
 
-## Languages: <br>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23E34F26.svg?style=for-the-badge&logo=css&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234285F4.svg?style=for-the-badge&logo=sql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%234285F4.svg?style=for-the-badge&logo=sql&logoColor=white)<br> <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square" />
 
-## Servers / Platforms: <br>
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Azure](https://img.shields.io/badge/azure-%23F05033.svg?style=for-the-badge&logo=azure) <br> <br>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-## Libraries / Frameworks: <br>
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) <br> <br>
+### 🗄️ Databases & Architecture
 
-## Operating Systems: <br>
-![Linux](https://img.shields.io/badge/Linux-%234285F4.svg?style=for-the-badge&logo=linux&logoColor=white) ![Dragon OS](https://img.shields.io/badge/-Dragon_OS-C51A4A?style=for-the-badge&logo=linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-%234285F4.svg?style=for-the-badge&logo=linux&logoColor=white) ![Kali Mint](https://img.shields.io/badge/-Linux_Mint-%234285F4.svg?style=for-the-badge&logo=linux&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu_Server-%23F05033.svg?style=for-the-badge&logo=linux&logoColor=white) <br> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/System_Architecture-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/Database_Design-555555?style=flat-square" />
 
-## Methodologies: <br>
-![Scrum](https://img.shields.io/badge/Scrum-%234285F4.svg?style=for-the-badge&logo=scrum&logoColor=white) <br> <br>
+</td>
+<td align="center" width="50%">
 
-## Tools: <br>
-![Spline](https://img.shields.io/badge/Spline-%2300C4CC.svg?style=for-the-badge&logo=Spline&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Py4J](https://img.shields.io/badge/Pi4J-%234285F4.svg?style=for-the-badge&logo=python&logoColor=white) ![GNU](https://img.shields.io/badge/GNU-%23F5792A.svg?style=for-the-badge&logo=GNU&logoColor=white)  <br> <br>
+### 🐧 Infrastructure & Tools
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/DevOps-555555?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+### 🤝 System Development & Collaboration
+
+`Requirements Engineering` · `System Documentation` · `Frontend & Backend` · `Testing & QA` · `Scrum & Agile` · `Stakeholder Communication` · `TCP/IP`
+
+</div>
+
