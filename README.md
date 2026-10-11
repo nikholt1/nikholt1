@@ -198,16 +198,24 @@ Cybersecurity fundamentals, digital security principles, and identification of s
 
 <div align="center">
 
-<a href="https://niklasholtlau.web.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-282D36?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Explore portfolio"/>
-</a>
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://raw.githubusercontent.com/nikholt1/nikholt1/main/blop.gif" width="60" alt="Animated blob"/>
+    </td>
+    <td valign="middle">
+      <a href="https://niklasholtlau.web.app/">
+        <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-282D36?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Explore portfolio"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/><br/>
 
 <sub>SOFTWARE DEVELOPMENT · AI · CONTINUOUS LEARNING</sub>
 
 <br/><br/>
-
 
 </div>
 
