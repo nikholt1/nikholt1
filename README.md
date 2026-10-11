@@ -2,25 +2,11 @@
 
 <div align="center">
 
-[01 · Profile](#01--profile) · [02 · GitHub](#02--github-overview) · [03 · Projects](#03--selected-project) · [04 · Skills](#04--technical-skills) · [05 · Certifications](#05--certifications)
+[02 · GitHub](#02--github-overview) · [03 · Projects](#03--selected-project) · [04 · Skills](#04--technical-skills) · [05 · Certifications](#05--certifications)
 
 </div>
 
----
 
-## 01 / Profile
-
-I approach software development from a systems perspective: understanding how components interact, how data moves through applications, and how architecture influences reliability, maintainability, and scalability.
-
-My interests span full-stack development, software architecture, infrastructure, cybersecurity, and AI-driven automation.
-
-| **SYSTEMS**                                  | **DEVELOPMENT**                                                   | **AUTOMATION**                                               |
-| :------------------------------------------- | :---------------------------------------------------------------- | :----------------------------------------------------------- |
-| Services, APIs, data flows and architecture. | Building full-stack applications with clear structure and maintainable code. | AI integrations, intelligent agents and automated workflows. |
-
-[↑ Back to navigation](#navigation)
-
----
 
 ## 02 / GitHub Overview
 
