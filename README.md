@@ -1,61 +1,228 @@
-## Tech Stack & Skills
+## Navigation
 
-### Full-Stack Development · System Architecture · AI & Automation
+<div align="center">
 
----
+[01 · Profile](#01--profile) · [02 · GitHub](#02--github-overview) · [03 · Projects](#03--selected-project) · [04 · Skills](#04--technical-skills) · [05 · Certifications](#05--certifications)
 
-### ⚙️ Backend & Development
-
-### 🧠 AI & Automation
-
-### 🗄️ Databases & Architecture
-
-### 🐧 Infrastructure & Tools
-
-### 🤝 System Development & Collaboration
-
-`Requirements Engineering` · `System Documentation` · `Frontend & Backend` · `Testing & QA` · `Scrum & Agile` · `Stakeholder Communication` · `TCP/IP`
+</div>
 
 ---
 
-## Certifications & Professional Development
+## 01 / Profile
 
-*Computer Science · Cybersecurity · Software Engineering*
+I approach software development from a systems perspective: understanding how components interact, how data moves through applications, and how architecture influences reliability, maintainability, and scalability.
+
+My interests span full-stack development, software architecture, infrastructure, cybersecurity, and AI-driven automation.
+
+| **SYSTEMS**                                  | **DEVELOPMENT**                                                   | **AUTOMATION**                                               |
+| :------------------------------------------- | :---------------------------------------------------------------- | :----------------------------------------------------------- |
+| Services, APIs, data flows and architecture. | Building applications with clear structure and maintainable code. | AI integrations, intelligent agents and automated workflows. |
+
+[↑ Back to navigation](#navigation)
+
+---
+
+## 02 / GitHub Overview
+
+<div align="center">
 
 <table>
 <tr>
-<td>
+<td align="center" colspan="2">
 
-**01 / PYTHON DEVELOPMENT**
+<img src="https://img.shields.io/badge/GITHUB-080D16?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
 
-### Harvard University · CS50
+<br>
 
-**Introduction to Python**
-
-Foundational programming concepts, problem-solving, and Python development.
-
-[↗ View Certificate](https://certificates.cs50.io/34f37a12-9f02-47fb-a955-c3c1d11b1d7e.png?size=letter) · [↗ Course Overview](https://niklasholtlau.web.app/Python.html)
+<a href="https://github.com/nikholt1">
+<img src="https://img.shields.io/badge/nikholt1-171B22?style=flat-square&logo=github&logoColor=38BDF8" alt="GitHub profile"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fnikholt1&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=171B22&labelColor=080D16&style=flat-square&logo=github&logoColor=38BDF8" alt="Public repositories"/>
 
 </td>
 </tr>
 <tr>
-<td>
+<td align="center" width="60%">
 
-**02 / CYBERSECURITY**
+<a href="https://github.com/nikholt1">
+<img src="https://github-readme-stats.vercel.app/api?username=nikholt1&show_icons=true&hide_title=true&hide_border=true&bg_color=080D16&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true&card_width=495" width="100%" alt="GitHub statistics including stars and contributions"/>
+</a>
 
-### Harvard University · CS50
+</td>
+<td align="center" width="40%">
 
-**Introduction to Cyber Security**
+<a href="https://github.com/nikholt1">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikholt1&layout=compact&hide_border=true&bg_color=080D16&title_color=38BDF8&text_color=CBD5E1&langs_count=5&card_width=300" width="100%" alt="Most-used programming languages"/>
+</a>
 
-Fundamentals of cybersecurity, digital security principles, and understanding security risks.
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
 
-[↗ View Certificate](https://certificates.cs50.io/b8671b9d-0791-4a80-8c5b-33aa7745fb72.pdf?size=letter) · [↗ Course Overview](https://niklasholtlau.web.app/CyberSecurity.html)
+<a href="https://github.com/nikholt1?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-101C2B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Explore all repositories"/>
+</a>
 
 </td>
 </tr>
 </table>
 
+<sub>Live GitHub data · Language distribution reflects repository code, not proficiency.</sub>
+
+</div>
+
+[↑ Back to navigation](#navigation)
+
 ---
 
-<text align="center" color="#888888" size="xs">TECHNICAL KNOWLEDGE · CONTINUOUS LEARNING · SYSTEM THINKING</text>
+
+
+## 03 / Selected Project
+
+<a href="https://github.com/nikholt1/Refract">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikholt1&repo=Refract&hide_border=true&bg_color=080D16&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" width="100%" alt="Refract repository card"/>
+</a>
+
+**Refract — Selected project**
+
+Explore the repository for the source code, implementation details, and project documentation.
+
+[**Browse all repositories ↗**](https://github.com/nikholt1?tab=repositories)
+
+[↑ Back to navigation](#navigation)
+
+---
+
+## 04 / Technical Skills
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>PROGRAMMING & TECHNOLOGIES</strong><br><br>
+      Java<br>
+      JavaScript<br>
+      HTML<br>
+      CSS<br>
+      SQL<br>
+      Python<br>
+      React Native<br>
+      Spring Boot<br>
+      Docker
+    </td>
+    <td width="34%" valign="top">
+      <strong>SOFTWARE DEVELOPMENT</strong><br><br>
+      System Development<br>
+      System Documentation<br>
+      Software Architecture<br>
+      Database Design<br>
+      Web Development<br>
+      Frontend & Backend Development<br>
+      Distributed Systems<br>
+      Testing & Quality Assurance<br>
+      TCP/IP Network Protocols<br>
+      Machine Learning
+    </td>
+    <td width="33%" valign="top">
+      <strong>TOOLS & METHODOLOGIES</strong><br><br>
+      DevOps<br>
+      Cloud Solutions<br>
+      AI Agents & Automation<br>
+      UI/UX Design<br>
+      GitHub<br>
+      Scrum & Agile Development
+    </td>
+  </tr>
+</table>
+
+---
+
+## 05 / Certifications
+
+<sub>HARVARD UNIVERSITY · CS50 · CONTINUOUS LEARNING</sub>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<a href="https://certificates.cs50.io/34f37a12-9f02-47fb-a955-c3c1d11b1d7e.png?size=letter">
+  <img src="https://img.shields.io/badge/HARVARD_UNIVERSITY-CS50-282D36?style=for-the-badge&labelColor=171B22&logo=edx&logoColor=38BDF8" alt="Harvard University CS50 Python certificate"/>
+</a>
+
+</div>
+
+### Introduction to Python
+
+Programming fundamentals, computational thinking, problem-solving, and Python development.
+
+**Core areas**
+
+* Programming fundamentals
+* Python syntax and implementation
+* Computational thinking
+* Problem-solving
+
+<div align="center">
+
+[**VIEW CERTIFICATE ↗**](https://certificates.cs50.io/34f37a12-9f02-47fb-a955-c3c1d11b1d7e.png?size=letter)
+
+[Course details](https://niklasholtlau.web.app/Python.html)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<a href="https://certificates.cs50.io/b8671b9d-0791-4a80-8c5b-33aa7745fb72.pdf?size=letter">
+  <img src="https://img.shields.io/badge/HARVARD_UNIVERSITY-CS50-282D36?style=for-the-badge&labelColor=171B22&logo=edx&logoColor=38BDF8" alt="Harvard University CS50 Cybersecurity certificate"/>
+</a>
+
+</div>
+
+### Introduction to Cyber Security
+
+Cybersecurity fundamentals, digital security principles, and identification of security risks.
+
+**Core areas**
+
+* Digital security principles
+* Security awareness
+* Identification of security risks
+* Cybersecurity fundamentals
+
+<div align="center">
+
+[**VIEW CERTIFICATE ↗**](https://certificates.cs50.io/b8671b9d-0791-4a80-8c5b-33aa7745fb72.pdf?size=letter)
+
+[Course details](https://niklasholtlau.web.app/CyberSecurity.html)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+[↑ Back to navigation](#navigation)
+
+---
+
+<div align="center">
+
+<a href="https://niklasholtlau.web.app/">
+  <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-282D36?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Explore portfolio"/>
+</a>
+
+<br/><br/>
+
+<sub>SOFTWARE DEVELOPMENT · AI · CONTINUOUS LEARNING</sub>
+
+<br/><br/>
+
+
+</div>
 
