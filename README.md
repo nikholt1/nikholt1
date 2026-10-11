@@ -201,7 +201,6 @@ Cybersecurity fundamentals, digital security principles, and identification of s
 <a href="https://niklasholtlau.web.app/">
   <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-282D36?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Explore portfolio"/>
 </a>
-<img width="200" height="200" alt="billede" src="https://github.com/user-attachments/assets/d3069170-543c-4bdb-9cbd-e338fefe41c5" />
 
 <br/><br/>
 
