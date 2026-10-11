@@ -78,20 +78,24 @@ My interests span full-stack development, software architecture, infrastructure,
 ---
 
 
-
 ## 03 / Selected Project
 
+<div align="center">
+
 <a href="https://github.com/nikholt1/Refract">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikholt1&repo=Refract&hide_border=true&bg_color=080D16&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" width="100%" alt="Refract repository card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikholt1&repo=Refract&hide_border=true&bg_color=080D16&title_color=38BDF8&text_color=CBD5E1&icon_color=38BDF8" width="75%" alt="Refract repository card"/>
 </a>
 
 **Refract — Selected project**
 
-Explore the repository for the source code, implementation details, and project documentation.
+<sub>Explore the repository for source code, implementation details, and project documentation.</sub>
 
 [**Browse all repositories ↗**](https://github.com/nikholt1?tab=repositories)
 
+</div>
+
 [↑ Back to navigation](#navigation)
+
 
 ---
 
